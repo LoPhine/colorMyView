@@ -1,4 +1,4 @@
-r mypackage com.example.colormyviews
+package com.example.colormyviews
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
